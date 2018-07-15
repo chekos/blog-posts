@@ -4,4 +4,4 @@ This is inspired by Geoff Boeing's set of [example notebooks about OSMNx](https:
 
 Here's the final output:
 
-![final_map]("https://github.com/Chekos/blog-posts/blob/master/OSMNx-example/images/tijuana.png?raw=true")
+![final_map]("https://github.com/Chekos/blog-posts/blob/master/OSMNx-example/images/tijuana.png")
