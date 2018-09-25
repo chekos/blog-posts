@@ -1,0 +1,73 @@
+year,educ_level,gap
+2007,Less Than Hs,0.0
+2008,Less Than Hs,-0.0281
+2009,Less Than Hs,-0.064
+2010,Less Than Hs,-0.0753
+2011,Less Than Hs,-0.0774
+2012,Less Than Hs,-0.0754
+2013,Less Than Hs,-0.0757
+2014,Less Than Hs,-0.0659
+2015,Less Than Hs,-0.0577
+2016,Less Than Hs,-0.0529
+2017,Less Than Hs,-0.0471
+2018,Less Than Hs,-0.0424
+2007,High School,0.0
+2008,High School,-0.0109
+2009,High School,-0.0493
+2010,High School,-0.0553
+2011,High School,-0.0571
+2012,High School,-0.0519
+2013,High School,-0.0495
+2014,High School,-0.0393
+2015,High School,-0.0389
+2016,High School,-0.0317
+2017,High School,-0.0231
+2018,High School,-0.0167
+2007,Some College,0.0
+2008,Some College,-0.0114
+2009,Some College,-0.0495
+2010,Some College,-0.0608
+2011,Some College,-0.062
+2012,Some College,-0.0566
+2013,Some College,-0.058
+2014,Some College,-0.0526
+2015,Some College,-0.0438
+2016,Some College,-0.0355
+2017,Some College,-0.031
+2018,Some College,-0.0294
+2007,Associate,-0.0
+2008,Associate,-0.0068
+2009,Associate,-0.0357
+2010,Associate,-0.0431
+2011,Associate,-0.044
+2012,Associate,-0.0388
+2013,Associate,-0.0377
+2014,Associate,-0.0386
+2015,Associate,-0.0296
+2016,Associate,-0.0273
+2017,Associate,-0.0263
+2018,Associate,-0.0156
+2007,Bachelors,0.0
+2008,Bachelors,-0.0006
+2009,Bachelors,-0.0217
+2010,Bachelors,-0.0284
+2011,Bachelors,-0.0273
+2012,Bachelors,-0.0218
+2013,Bachelors,-0.0203
+2014,Bachelors,-0.0158
+2015,Bachelors,-0.0119
+2016,Bachelors,-0.0103
+2017,Bachelors,-0.0071
+2018,Bachelors,-0.0024
+2007,Advanced Degree,0.0
+2008,Advanced Degree,-0.0005
+2009,Advanced Degree,-0.0147
+2010,Advanced Degree,-0.0174
+2011,Advanced Degree,-0.0133
+2012,Advanced Degree,-0.0163
+2013,Advanced Degree,-0.0167
+2014,Advanced Degree,-0.0173
+2015,Advanced Degree,-0.0117
+2016,Advanced Degree,-0.007
+2017,Advanced Degree,-0.0033
+2018,Advanced Degree,-0.0053
