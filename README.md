@@ -9,3 +9,8 @@ This is a repository of code and datasets for blog posts or articles I've writte
 * [Consistenly Beautiful Visualizations with Altair Themes](https://towardsdatascience.com/consistently-beautiful-visualizations-with-altair-themes-c7f9f889602) [Repo](https://github.com/Chekos/altair_themes_blog)
 
 <img src="https://pbs.twimg.com/media/DpAMN56U0AEmrYi.jpg" height = 350>
+
+* Making Maps with Altair
+
+
+<img src="making maps with altair/figures/final/making_maps_with_altair.png" height = 350>
